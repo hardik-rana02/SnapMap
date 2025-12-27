@@ -21,8 +21,8 @@
 ## 📥 3. Clone to Local Machine
 
 ```bash
-git clone https://github.com/<your-username>/snap-map.git
-cd snap-map/mobile
+git clone https://github.com/<your-username>/SnapMap.git
+cd SnapMap/
 ```
 
 ---
@@ -30,7 +30,7 @@ cd snap-map/mobile
 ## 📁 4. Install Dependencies
 
 ```bash
-cd mobile
+cd frontend 
 npm install
 ```
 
